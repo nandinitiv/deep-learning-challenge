@@ -7,5 +7,12 @@ The analysis is intended for a nonprofit foundation called Alphabet Soup. The an
 ## Result
 When optimizing the model, not dropping the identification columns EIN and NAME as well as increasing the cutoff for the classifications improved the accuracy of the model. 
 
+## File Structure
+Files in the repository include a Microsoft Word Document with details about the analysis and results. 
+AlphabetSoupCharity.ipynb -- initial analysis
+AlphabetSoupCharity_Optimization_1 -- first attempt at optimization
+AlphabetSoupCharity_Optimization_2 -- second attempt at optimization
+Each is accompanied by a H5 file with the results. 
+
 ## Resources
 Resources used for this project include course material, course-provided starter code, collaboration with classmates, AskBCS Learning Assistants, Stack Overflow, Chat GPT, and the assistance of Tutors. 
